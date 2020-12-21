@@ -1,8 +1,8 @@
 # didactic-sniffle
 Repository containing data analysis of Spotify API database. The goal of the repository is to analyse the content of the data and find:
-- Major changes in mainstream music genre population throughout the years.
-- Relation between song modality and popularity
-- Relation between danceability and loudness
+- Confirm "loudnes war" phenomenon;
+- Relation between song modality and popularity;
+- Relation between danceability and loudness.
 
 ## 1) Dataset
 The dataset was downloaded from kaggle.com (https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks) and contains music from 1921 to 2020. 
